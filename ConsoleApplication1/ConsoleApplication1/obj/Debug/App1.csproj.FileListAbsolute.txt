@@ -1,0 +1,4 @@
+E:\BizRun.NET\c#.net-programs\Async-Await\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\BizRun.NET\c#.net-programs\Async-Await\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+E:\BizRun.NET\c#.net-programs\Async-Await\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\BizRun.NET\c#.net-programs\Async-Await\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

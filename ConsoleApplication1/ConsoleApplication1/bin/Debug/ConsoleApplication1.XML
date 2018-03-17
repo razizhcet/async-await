@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsoleApplication1</name>
+    </assembly>
+    <members>
+        <member name="T:ConsoleApplication1.AsyncAwait">
+            <summary>
+            class to call the methods Asynchronously
+            T:ConsoleApplication1.AsyncAwait
+            </summary>
+        </member>
+        <member name="F:ConsoleApplication1.AsyncAwait.log">
+            <summary>
+            statement for using functions of log4net
+            F:ConsoleApplication1.AsyncAwait.log
+            </summary>
+        </member>
+        <member name="M:ConsoleApplication1.AsyncAwait.Method1Async">
+            <summary>
+            Method1Async async method to read task asynchronously with await keyword
+            M:ConsoleApplication1.AsyncAwait.Method1Async
+            </summary>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="M:ConsoleApplication1.AsyncAwait.Method2">
+            <summary>
+            Method2 method for iterating
+            M:ConsoleApplication1.AsyncAwait.Method2
+            </summary>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="M:ConsoleApplication1.AsyncAwait.Main(System.String[])">
+            <summary>
+            main method for calling Method1Async() and Method2()
+            M:ConsoleApplication1.AsyncAwait.Main(System.String[])
+            </summary>
+            <param name="args">string array type parameter.</param>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="T:ConsoleApplication1.AsyncAwait1">
+            <summary>
+            class to call methods Asynchronously with the use of async and await keyword
+            T:ConsoleApplication1.AsyncAwait1
+            </summary>
+        </member>
+        <member name="F:ConsoleApplication1.AsyncAwait1.log">
+            <summary>
+            statement for using functions of log4net
+            F:ConsoleApplication1.AsyncAwait1.log
+            </summary>
+        </member>
+        <member name="M:ConsoleApplication1.AsyncAwait1.Main(System.String[])">
+            <summary>
+            main method for calling callMethodAsync()
+            M:ConsoleApplication1.AsyncAwait1.Main(System.String[])
+            </summary>
+            <param name="args">string array type parameter.</param>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="M:ConsoleApplication1.AsyncAwait1.callMethodAsync">
+            <summary>
+            callMethodAsync() async method to read task asynchronously with await keyword
+            M:ConsoleApplication1.AsyncAwait1.callMethodAsync
+            </summary>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="M:ConsoleApplication1.AsyncAwait1.Method1Async">
+            <summary>
+            Method1Async() async method to read task asynchronously with await keyword
+            M:ConsoleApplication1.AsyncAwait1.Method1Async
+            </summary>
+            <returns>return type is Task which is int type.</returns>
+        </member>
+        <member name="M:ConsoleApplication1.AsyncAwait1.Method2">
+            <summary>
+            Method2 method for iterating different task
+            M:ConsoleApplication1.AsyncAwait1.Method2
+            </summary>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="M:ConsoleApplication1.AsyncAwait1.Method3(System.Int32)">
+            <summary>
+            Method3 method for iterating different task
+            M:ConsoleApplication1.AsyncAwait1.Method3
+            </summary>
+            <param name="count">int type parameter.</param>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="T:ConsoleApplication1.AsyncAwaitReadFile">
+            <summary>
+            class to read the contents of a file Asynchronously
+            T:ConsoleApplication1.AsyncAwaitReadFile
+            </summary>
+        </member>
+        <member name="F:ConsoleApplication1.AsyncAwaitReadFile.log">
+            <summary>
+            statement for using functions of log4net
+            F:ConsoleApplication1.AsyncAwaitReadFile.log
+            </summary>
+        </member>
+        <member name="M:ConsoleApplication1.AsyncAwaitReadFile.Main(System.String[])">
+            <summary>
+            main method for creating instance of Task and calling start and wait method of task
+            M:ConsoleApplication1.AsyncAwaitReadFile.Main(System.String[])
+            </summary>
+            <param name="args">string array type parameter.</param>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="M:ConsoleApplication1.AsyncAwaitReadFile.callMethodAsync">
+            <summary>
+            callMethodAsync async method to call readFileAsync method to read the file and use await keyword
+            M:ConsoleApplication1.AsyncAwaitReadFile.callMethodAsync
+            </summary>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="M:ConsoleApplication1.AsyncAwaitReadFile.readFileAsync(System.String)">
+            <summary>
+            readFileAsync method for for reading the contents of a file asynchronously
+            M:ConsoleApplication1.AsyncAwaitReadFile.readFileAsync(System.String)
+            </summary>
+            <param name="file">string type parameter.</param>
+            <returns>return type is Task which is int generic type.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1006]E:\BizRun.NET\c#.net-programs\ConsoleApplication1\TestClassLib\bin\Debug\TestClassLib.dll</TopNode>
+  <SelectedNode>[0-1001]TestClassLib.AsyncAwait1Test.Test1</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1006]E:\BizRun.NET\c#.net-programs\ConsoleApplication1\TestClassLib\bin\Debug\TestClassLib.dll" Expanded="true" />
+    <Node UniqueName="[0-1007]TestClassLib" Expanded="true" />
+    <Node UniqueName="[0-1000]TestClassLib.AsyncAwait1Test" Expanded="true" />
+    <Node UniqueName="[0-1002]TestClassLib.AsyncAwaitTest" Expanded="true" />
+    <Node UniqueName="[0-1004]TestClassLib.Class1" Expanded="true" />
+  </Nodes>
+</VisualState>
